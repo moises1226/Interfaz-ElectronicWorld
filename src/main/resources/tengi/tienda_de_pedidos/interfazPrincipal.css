@@ -35,3 +35,11 @@
     -fx-background-color: #0D2286;
 }
 
+#btn_Tabla_registros{
+
+    -fx-border-color: white;
+    -fx-background-radius: 20px;
+    -fx-border-radius: 20px;
+
+
+}
