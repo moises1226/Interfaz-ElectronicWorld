@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184c083f-7324-464e-8c62-8b617e4d4e8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/Controlador_InterfazAPP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/ControllerComponentes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/InterfazPrincipal.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/iconos/group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/iconos/networking (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/iconos/networking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/iconos/registration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/iconos/team-management.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/interfazPrincipal.css" afterDir="false" />
-    </list>
+    <list default="true" id="184c083f-7324-464e-8c62-8b617e4d4e8f" name="Changes" comment="interfazPart1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "moises1226"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/moises1226/Interfaz-ElectronicWorld.git",
+    "accountId": "2da0ada1-5f99-4936-87f6-fb427ed3d3c6"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -96,6 +87,15 @@
       <option name="presentableId" value="Default" />
       <updated>1717369971810</updated>
     </task>
+    <task id="LOCAL-00001" summary="interfazPart1">
+      <option name="closed" value="true" />
+      <created>1717783777063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717783777063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +108,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="interfazPart1" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfazPart1" />
   </component>
 </project>
