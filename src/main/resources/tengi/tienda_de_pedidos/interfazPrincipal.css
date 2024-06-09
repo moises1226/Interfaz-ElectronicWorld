@@ -5,6 +5,7 @@
     -fx-border-color: white;
     -fx-background-radius: 20px;
     -fx-border-radius: 20px;
+    -fx-background-color: transparent;
 }
 #btn_nosotros:hover{
 
@@ -16,6 +17,7 @@
   -fx-border-color: white;
   -fx-background-radius: 20px;
   -fx-border-radius: 20px;
+    -fx-background-color: transparent;
 }
 
 #btn_registro:hover{
@@ -28,6 +30,7 @@
   -fx-border-color: white;
   -fx-background-radius: 20px;
   -fx-border-radius: 20px;
+   -fx-background-color: transparent;
 }
 
 #btn_proyect:hover{
@@ -40,6 +43,29 @@
     -fx-border-color: white;
     -fx-background-radius: 20px;
     -fx-border-radius: 20px;
+    -fx-background-color: transparent;
+
+
+}
+#btn_Tabla_registros:hover{
+
+       -fx-background-color: #0D2286;
+}
+
+#btn_enviar{
+
+    -fx-background-color: white;
+    -fx-background-radius: 20px;
+    -fx-border-color: blue;
+    -fx-border-radius: 20px;
+
+
+}
+
+#btn_enviar:hover{
+
+    -fx-background-color: #0D2286;
+    -fx-text-fill: white;
 
 
 }

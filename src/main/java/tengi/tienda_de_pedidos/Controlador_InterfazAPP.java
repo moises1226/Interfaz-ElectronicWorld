@@ -11,7 +11,7 @@ public class Controlador_InterfazAPP extends Application {
     @Override
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(Controlador_InterfazAPP.class.getResource("InterfazPrincipal.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(),  871, 539);
+        Scene scene = new Scene(fxmlLoader.load(),  904, 589);
         stage.setTitle("Verificador de Computadora");
         stage.setResizable(false);
         stage.setScene(scene);

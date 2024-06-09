@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184c083f-7324-464e-8c62-8b617e4d4e8f" name="Changes" comment="interfazPart1">
+    <list default="true" id="184c083f-7324-464e-8c62-8b617e4d4e8f" name="Changes" comment="Agregacion de estelidos a btn_Tabla_registros">
+      <change afterPath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/Conexion_BASEDATOS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/Controlador_InterfazAPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/Controlador_InterfazAPP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/ControllerComponentes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/ControllerComponentes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/InterfazPrincipal.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/InterfazPrincipal.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/interfazPrincipal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/interfazPrincipal.css" afterDir="false" />
     </list>
@@ -14,21 +18,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "moises1226"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;moises1226&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/moises1226/Interfaz-ElectronicWorld.git",
-    "accountId": "2da0ada1-5f99-4936-87f6-fb427ed3d3c6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/moises1226/Interfaz-ElectronicWorld.git&quot;,
+    &quot;accountId&quot;: &quot;2da0ada1-5f99-4936-87f6-fb427ed3d3c6&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -45,18 +57,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Controlador_InterfazAPP.executor": "Run",
-    "Application.HelloApplication.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "settings.editor.splitter.proportion": "0.2574974"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Controlador_InterfazAPP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.2574974&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\moise\Desktop\Tienda_de_Pedidos\src\main\resources\tengi\tienda_de_pedidos" />
@@ -115,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717784095165</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Agregacion de estelidos a btn_Tabla_registros">
+      <option name="closed" value="true" />
+      <created>1717784419332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717784419332</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="interfazPart1" />
-    <option name="LAST_COMMIT_MESSAGE" value="interfazPart1" />
+    <MESSAGE value="Agregacion de estelidos a btn_Tabla_registros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregacion de estelidos a btn_Tabla_registros" />
   </component>
 </project>
