@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184c083f-7324-464e-8c62-8b617e4d4e8f" name="Changes" comment="Agregacion de estelidos a btn_Tabla_registros">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/Conexion_BASEDATOS.java" afterDir="false" />
+    <list default="true" id="184c083f-7324-464e-8c62-8b617e4d4e8f" name="Changes" comment="Cambiamos los botones de jfoenix a las comunes ya que generaban problemas de visualizacion y retroceso.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/Controlador_InterfazAPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/Controlador_InterfazAPP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/ControllerComponentes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/ControllerComponentes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/InterfazPrincipal.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/InterfazPrincipal.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/interfazPrincipal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/interfazPrincipal.css" afterDir="false" />
@@ -135,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717784419332</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Cambiamos los botones de jfoenix a las comunes ya que generaban problemas de visualizacion y retroceso.">
+      <option name="closed" value="true" />
+      <created>1717970089258</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717970089258</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +157,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="interfazPart1" />
     <MESSAGE value="Agregacion de estelidos a btn_Tabla_registros" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregacion de estelidos a btn_Tabla_registros" />
+    <MESSAGE value="Cambiamos los botones de jfoenix a las comunes ya que generaban problemas de visualizacion y retroceso." />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambiamos los botones de jfoenix a las comunes ya que generaban problemas de visualizacion y retroceso." />
   </component>
 </project>

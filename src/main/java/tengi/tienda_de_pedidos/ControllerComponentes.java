@@ -7,6 +7,7 @@ import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
+import javafx.scene.layout.Pane;
 import javafx.scene.text.Text;
 import javafx.util.Duration;
 import java.sql.Connection;
@@ -72,6 +73,17 @@ public class ControllerComponentes {
         nombreApellidoField.setText("");
         passwordField.setText("");
         verificacionField.setText("");
+
+
+    }
+
+        @FXML
+        private Pane panel_registro;
+
+        @FXML
+        private void CambioDePaneles(){
+
+            panel_registro.setVisible(true);
 
 
     }

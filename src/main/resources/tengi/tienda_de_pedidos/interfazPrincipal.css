@@ -1,4 +1,6 @@
 #left_menu{-fx-background-color: linear-gradient(to right, #2980b9, #2c3e50);}
+#panel_registro{-fx-background-color: linear-gradient(to left, #076585 , #fff);}
+
 
 #btn_nosotros{
 
@@ -54,18 +56,21 @@
 
 #btn_enviar{
 
-    -fx-background-color: white;
+    -fx-background-color: transparent;
     -fx-background-radius: 20px;
-    -fx-border-color: blue;
-    -fx-border-radius: 20px;
+    -fx-border-color: blue ;
+    -fx-border-radius: 15px;
+    -fx-border-width: 1px;
+
 
 
 }
 
 #btn_enviar:hover{
 
-    -fx-background-color: #0D2286;
+    -fx-background-color: #007991;
     -fx-text-fill: white;
+    -fx-border-color: #fff;
 
 
 }
