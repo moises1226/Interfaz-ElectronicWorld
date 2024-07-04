@@ -36,12 +36,12 @@ public class ControllerComponentes {
         String nombre = nombreApellidoField.getText();
         String password = passwordField.getText();
 
-        // Llamar al método para guardar los datos en la base de datos
+
         guardarDatosEnBaseDeDatos(nombre, password);
     }
 
     private void guardarDatosEnBaseDeDatos(String nombre, String password) {
-        // Crear una instancia de la clase de conexión a la base de datos
+
         Conexion_BASEDATOS conexion = new Conexion_BASEDATOS();
         try {
             Connection connection = conexion.getConnection();
@@ -53,10 +53,9 @@ public class ControllerComponentes {
             mostrarMensajeExito();
             limpiarDatos();
 
-            // Aquí puedes agregar lógica adicional, como mostrar un mensaje de éxito
+
         } catch (SQLException e) {
             e.printStackTrace();
-            // Aquí puedes manejar cualquier error que ocurra durante la inserción en la base de datos
         }
     }
 

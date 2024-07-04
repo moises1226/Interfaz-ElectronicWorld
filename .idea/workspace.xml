@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184c083f-7324-464e-8c62-8b617e4d4e8f" name="Changes" comment="Cambiamos los botones de jfoenix a las comunes ya que generaban problemas de visualizacion y retroceso.">
+    <list default="true" id="184c083f-7324-464e-8c62-8b617e4d4e8f" name="Changes" comment="modificamos la conecion de base de datos">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/ControllerComponentes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tengi/tienda_de_pedidos/ControllerComponentes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/InterfazPrincipal.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/InterfazPrincipal.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/interfazPrincipal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tengi/tienda_de_pedidos/interfazPrincipal.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/moises1226/Interfaz-ElectronicWorld.git&quot;,
-    &quot;accountId&quot;: &quot;2da0ada1-5f99-4936-87f6-fb427ed3d3c6&quot;
+    &quot;accountId&quot;: &quot;966978fe-1954-4f53-9aa9-eddd178eda5e&quot;
   }
 }</component>
   <component name="MavenImportPreferences">
@@ -44,6 +43,9 @@
         <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -62,7 +64,11 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/chino77/Escritorio/Proyect _JavaFX/Interfaz-ElectronicWorld&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.2574974&quot;
   }
 }</component>
@@ -92,6 +98,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="184c083f-7324-464e-8c62-8b617e4d4e8f" name="Changes" comment="" />
@@ -140,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717970089258</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="modificamos la conecion de base de datos">
+      <option name="closed" value="true" />
+      <created>1719796544725</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719796544725</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +175,7 @@
     <MESSAGE value="interfazPart1" />
     <MESSAGE value="Agregacion de estelidos a btn_Tabla_registros" />
     <MESSAGE value="Cambiamos los botones de jfoenix a las comunes ya que generaban problemas de visualizacion y retroceso." />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambiamos los botones de jfoenix a las comunes ya que generaban problemas de visualizacion y retroceso." />
+    <MESSAGE value="modificamos la conecion de base de datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificamos la conecion de base de datos" />
   </component>
 </project>
